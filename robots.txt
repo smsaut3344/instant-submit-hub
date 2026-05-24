@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smsaut3344.github.io/instant-submit-hub/sitemap.xml
